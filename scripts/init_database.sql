@@ -33,6 +33,7 @@ GO
 
 -- Create  Database 'DataWarehouse'
 CREATE DATABASE DataWarehouse;
+GO
 
 USE DataWarehouse;
 GO
